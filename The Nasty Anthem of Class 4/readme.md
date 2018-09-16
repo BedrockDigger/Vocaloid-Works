@@ -8,4 +8,4 @@ Jialin Xiao | Miao Zen | Yuewen Luo
 
 Using Vocaloid Engine gen4, Xingchen.
 
-![album art by Julia](http://ae01.alicdn.com/kf/HTB11ZxSXjvuK1Rjy0Faxh42aVXac.jpeg)
+![album art by Julia](https://s33.postimg.cc/lq0dc08xr/1ff650186060491-01.jpg)
