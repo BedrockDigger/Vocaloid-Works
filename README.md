@@ -1,5 +1,5 @@
 # Vocaloid-Works
-Music work by Fearnando using Vocaloid sound synthesis engine.
+Music work by Fernando using Vocaloid sound synthesis engine.
 
 All .vsqx files and their corresponding .wavs are open. Please note the source if you want to either reproduce or quote.
 
