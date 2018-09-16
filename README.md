@@ -1,5 +1,4 @@
 # Vocaloid-Works
-![logo](http://content.altfonts.com:88/img/V/O/Vocaloid.png)
 
 Music work by Fernando using Vocaloid sound synthesis engine.
 
