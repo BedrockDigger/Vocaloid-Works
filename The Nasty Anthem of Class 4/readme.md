@@ -8,4 +8,4 @@ Jialin Xiao | Miao Zen | Yuewen Luo
 
 Using Vocaloid Engine gen4, Xingchen.
 
-![Stardust](https://i.pximg.net/img-original/img/2016/05/13/02/36/36/56854478_p0.jpg)
+![Stardust](http://img1.reactor.cc/pics/post/full/xingchen-Vocaloid-Anime-vocanese-2661473.jpeg)
